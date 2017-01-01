@@ -1,4 +1,4 @@
 # Under Construction, Again...
 
-<insert something insightful/>
-<missing cute puppy picture/>
+&lt;insert something insightful/&gt;
+&lt;missing cute puppy picture/&gt;
